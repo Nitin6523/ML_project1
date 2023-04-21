@@ -1,1 +1,1 @@
-## Learniung end to end ml project
+## Learning end to end ml project
